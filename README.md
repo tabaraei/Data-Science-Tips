@@ -3,7 +3,7 @@ Tips that I find useful for Data Science
 
 |    **Notebook**    |             **Notebook Link**               |
 |:------------------:|:-------------------------------------------:|
-| `REST_API`         | [![Open In Colab][badge]][rest]             |
+| `REST-API`         | [![Open In Colab][badge]][rest]             |
 | `Kaggle`           | [![Open In Colab][badge]][kaggle]           |
 | `Git`              | [![Open In Colab][badge]][git]              |
 | `Conda`            | [![Open In Colab][badge]][conda]            |
